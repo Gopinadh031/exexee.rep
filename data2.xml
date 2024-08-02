@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<h1>Plain Text</h1>
+<College_Name>XYZ</College_Name>
+	<Location>Rjy</Location>
+	<Course>Java,Python,c++</Course>
+	<Students>
+		<Name>Gopi</Name> , <Age>324</Age>
+		<Name>Akv</Name>,<Age>3546</Age>
+	</Students>
+</data>
+		

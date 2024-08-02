@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<hmtl>
+<head>
+<title>pawan kalyan</title>
+</head>
+<body>
+<h1>PawanKalyan Fans Club</h1>
+<img src="C:\Users\gopin\OneDrive\Desktop\html\pawan-kalyan-jsp-wins-ap-elections-2024-06-99f15177bd1b30472ba925acfb5d00ea.webp">
+</body>
+</html>
